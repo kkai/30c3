@@ -1,5 +1,4 @@
 ## [BeGaze]
-## Converted from:	D:\Recorded Data\Humihara-[87c7a38d-3cb9-4115-baba-77fd01902679]\Humihara-4-recording.idf
 ## Date:	15.02.2013 14:09:12
 ## Version:	BeGaze 3.2.28
 ## IDF Version:	10
@@ -10,7 +9,6 @@
 ## Number of Samples:	27020
 ## Reversed:	none
 ## [Run]
-## Subject:	Humihara (3)
 ## Description:	Run4
 ## [Calibration]
 ## Calibration Type:	n.a.

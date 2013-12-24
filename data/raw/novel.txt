@@ -1,5 +1,4 @@
 ## [BeGaze]
-## Converted from:	D:\Recorded Data\Yoshimura-[0fd38971-1e1e-4105-a1d9-beffde07661b]\Yoshimura-7-recording.idf
 ## Date:	15.02.2013 14:09:12
 ## Version:	BeGaze 3.2.28
 ## IDF Version:	10
@@ -10,7 +9,6 @@
 ## Number of Samples:	25937
 ## Reversed:	none
 ## [Run]
-## Subject:	Yoshimura (6)
 ## Description:	Run7
 ## [Calibration]
 ## Calibration Type:	n.a.

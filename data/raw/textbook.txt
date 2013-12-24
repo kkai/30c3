@@ -1,5 +1,4 @@
 ## [BeGaze]
-## Converted from:	D:\Recorded Data\Kitano-[0781eaf0-6fe5-469d-a2d3-d06e838ff38e]\Kitano-2-recording.idf
 ## Date:	15.02.2013 14:09:12
 ## Version:	BeGaze 3.2.28
 ## IDF Version:	10
@@ -10,7 +9,6 @@
 ## Number of Samples:	26241
 ## Reversed:	none
 ## [Run]
-## Subject:	Kitano (1)
 ## Description:	Run2
 ## [Calibration]
 ## Calibration Type:	n.a.
